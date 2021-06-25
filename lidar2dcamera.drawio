@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-25T02:20:44.240Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="M6DtJps2FAtzWt34-T0W" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-25T02:21:57.330Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="66H3KGw7AQL990Mfw4g_" version="14.8.0" type="github">
   <diagram id="rWPcL8Qy4fmeeGMC7A7o" name="Page-1">
-    <mxGraphModel dx="1936" dy="1551" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1936" dy="1551" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -91,7 +91,7 @@
             <mxPoint x="1100" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DhtEBJqCCHqKw90YC5U--62" value="Web server for visualization" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="DhtEBJqCCHqKw90YC5U--62" value="Web server for visualization" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="870" y="152" width="141" height="88" as="geometry" />
         </mxCell>
         <mxCell id="DhtEBJqCCHqKw90YC5U--101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#6d8764;strokeColor=#3A5431;strokeWidth=2;" edge="1" parent="1" source="DhtEBJqCCHqKw90YC5U--63">
@@ -185,7 +185,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DhtEBJqCCHqKw90YC5U--105" value="Web UI" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="DhtEBJqCCHqKw90YC5U--105" value="Web UI" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1146.29" y="302" width="116" height="131" as="geometry" />
         </mxCell>
         <mxCell id="DhtEBJqCCHqKw90YC5U--107" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeWidth=3;fillColor=none;" vertex="1" parent="1">
